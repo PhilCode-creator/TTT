@@ -1,0 +1,7 @@
+name: TTT
+version: 0.1
+authors:
+  - PhilCode
+main: eu.hylix.ttt.TTT
+
+commands:

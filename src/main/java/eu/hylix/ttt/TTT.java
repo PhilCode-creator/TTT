@@ -1,4 +1,16 @@
 package eu.hylix.ttt;
 
-public class TTT {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class TTT extends JavaPlugin {
+
+    @Override
+    public void onEnable() {
+
+    }
+
+    @Override
+    public void onDisable() {
+
+    }
 }
